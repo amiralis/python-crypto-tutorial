@@ -2,7 +2,7 @@
 
 
 Tutorial on how to use different crypto libraries in Python for
-  [Network Security](chimera.ccs.neu.edu).
+  [Network Security](http://www.ccs.neu.edu/home/amirali/teaching/Summer16/).
 
   **Instructor**: [Amirali Sanatinia](http://www.ccs.neu.edu/home/amirali)
 
